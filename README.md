@@ -1,2 +1,2 @@
 # proyecto2
-Fundamentos de git y githun
+Fundamentos de git y github
